@@ -1,7 +1,4 @@
 Mi nombre es jairo espinoza
 Naci en 1980
 vivo en San Lucas
-trabajo en Telus desde hace 4 anios
-regrese a esta version con "git reset 4d49d6870c1e0d0b9d9eec44a21bfb33e82b770d --hard" con esto borro los cambios anteriores
-de aqui se agrega nuevamente luego del reset...
-es predicador de la iglesia de Cristo de Santa Lucia Milpas Altas y tambien el ministro (pastor)
+nos enfocaremos en su ministerio unicamente
